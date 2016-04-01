@@ -20,6 +20,9 @@
     NSLog(@"branch1");
     NSLog(@"branch2");
     NSLog(@"branch3");
+        NSLog(@"branch2");
+    NSLog(@"branch3");
+    
    
     NSLog(@"这是在github 里操作的");
 }
